@@ -1,6 +1,6 @@
-from modules import scratchtools
+from modules import followCount
 
-followers = scratchtools.getfollowercount
+followers = followCount.getfollowercount
 
 print('Getting follower count...')
 
