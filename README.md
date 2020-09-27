@@ -1,1 +1,3 @@
-# Scratch-Leaderboard
+# Scratch Leaderboard
+
+Now in Beta!
